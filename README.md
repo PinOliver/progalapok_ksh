@@ -40,3 +40,14 @@ Telepítés:
 ```bash
 pip install tabulate numpy matplotlib scikit-learn
 ```
+
+## Használat
+
+A KSH oldaláról adatok .csv formátumban letöltése ingatlan.csv névre
+- https://www.ksh.hu/s/ingatlanadattar/adattar?year=2023
+- https://www.ksh.hu/
+
+A futttás:
+```bash
+python3 ingatlan.py
+```
